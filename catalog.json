@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "email": "23f2002971@ds.study.iitm.ac.in",
+    "version": "9da64b5c"
+  },
+  "products": [
+    {"id":"prod-9da64b5c-001","name":"Basic Item 1","category":"books","price":323.16,"stock":5,"rating":2.9},
+    {"id":"prod-9da64b5c-002","name":"Basic Item 2","category":"electronics","price":404.83,"stock":117,"rating":3.1},
+    {"id":"prod-9da64b5c-003","name":"Basic Item 3","category":"books","price":379.14,"stock":136,"rating":4.8},
+    {"id":"prod-9da64b5c-004","name":"Pro Item 4","category":"clothing","price":320.11,"stock":51,"rating":3},
+    {"id":"prod-9da64b5c-005","name":"Elite Item 5","category":"electronics","price":330.3,"stock":151,"rating":4},
+    {"id":"prod-9da64b5c-006","name":"Standard Item 6","category":"clothing","price":295.54,"stock":110,"rating":1.4},
+    {"id":"prod-9da64b5c-007","name":"Premium Item 7","category":"sports","price":329.57,"stock":118,"rating":1.7},
+    {"id":"prod-9da64b5c-008","name":"Premium Item 8","category":"electronics","price":291.69,"stock":57,"rating":4},
+    {"id":"prod-9da64b5c-009","name":"Elite Item 9","category":"electronics","price":159.37,"stock":19,"rating":4},
+    {"id":"prod-9da64b5c-010","name":"Pro Item 10","category":"home","price":133.42,"stock":3,"rating":3.1},
+    {"id":"prod-9da64b5c-011","name":"Pro Item 11","category":"clothing","price":287.49,"stock":91,"rating":5},
+    {"id":"prod-9da64b5c-012","name":"Elite Item 12","category":"home","price":344.84,"stock":87,"rating":2.3},
+    {"id":"prod-9da64b5c-013","name":"Standard Item 13","category":"books","price":197.04,"stock":31,"rating":1.9},
+    {"id":"prod-9da64b5c-014","name":"Elite Item 14","category":"sports","price":469.32,"stock":131,"rating":3.4},
+    {"id":"prod-9da64b5c-015","name":"Premium Item 15","category":"electronics","price":41.9,"stock":118,"rating":1.3},
+    {"id":"prod-9da64b5c-016","name":"Basic Item 16","category":"clothing","price":179.35,"stock":31,"rating":2.8},
+    {"id":"prod-9da64b5c-017","name":"Elite Item 17","category":"home","price":321.89,"stock":134,"rating":2},
+    {"id":"prod-9da64b5c-018","name":"Elite Item 18","category":"clothing","price":53.03,"stock":128,"rating":1}
+  ],
+  "aggregations": {
+    "electronics": {"count":5,"inventoryValue":121838.97},
+    "books": {"count":3,"inventoryValue":59287.08},
+    "clothing": {"count":5,"inventoryValue":87344.29},
+    "sports": {"count":2,"inventoryValue":100239.99},
+    "home": {"count":3,"inventoryValue":79030.49}
+  }
+}
